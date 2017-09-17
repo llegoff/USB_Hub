@@ -9,3 +9,4 @@ rev1
 
 rev2
 - Change R3 route
+- Change the numbering of the components
