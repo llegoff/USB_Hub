@@ -1,7 +1,7 @@
 # USB_Hub
 GL850G usb2.0 hub PiZero format
 
-
+![](IMG/HubUSB.jpg)
 
 rev1
 - R12 (new R3 in rev2) is connected to 5v, it must be connected to gnd
