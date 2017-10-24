@@ -1,3 +1,5 @@
+[:fr:](LISEZMOI.md) [:uk:](README.md)
+
 # USB_Hub
 GL850G usb2.0 hub PiZero format
 
