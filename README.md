@@ -1,7 +1,9 @@
 [:fr:](LISEZMOI.md) [:uk:](README.md)
 
 # USB_Hub
-GL850G usb2.0 hub PiZero format
+GL852G or GL850G usb2.0 hub PiZero format
+GL852G is Multi TT hub chip
+GL850G is single TT hub chip
 
 ![](IMG/HubUSB.jpg)
 
