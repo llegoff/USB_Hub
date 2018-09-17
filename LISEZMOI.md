@@ -1,7 +1,7 @@
 [:fr:](LISEZMOI.md) [:uk:](README.md)
 
 # Hub USB
-Hub USB2.0, au format PiZero, piloté par le controleur GL850G
+Hub USB2.0, au format PiZero, piloté par le controleur GL852G ou GL850G
 
 ![](IMG/HubUSB.jpg)
 
