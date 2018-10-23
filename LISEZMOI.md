@@ -3,6 +3,10 @@
 # Hub USB
 Hub USB2.0, au format PiZero, piloté par le controleur GL852G ou GL850G
 
+la puce GL852G pour un hub Multi TT (multiple transaction translator) 
+
+la puce GL850G pour un hub Single TT
+
 ![](IMG/HubUSB.jpg)
 
 ![](IMG/SCH.png)
